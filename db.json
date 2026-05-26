@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "dwarika",
+      "age": 20,
+      "address": "bhilai"
+    }
+  ],
+  "products": []
+}
